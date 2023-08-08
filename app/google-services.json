@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64287824282",
+    "project_id": "unlockeez-8c37a",
+    "storage_bucket": "unlockeez-8c37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64287824282:android:f9a9a944c31544d1f64223",
+        "android_client_info": {
+          "package_name": "com.wifisecure.unlockeez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64287824282-b8q5ifapkfl8gltv0atl81e8o2e5npb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGD_E6gIhDzGjbhXfdm_0-E5wQWXvfFRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64287824282-b8q5ifapkfl8gltv0atl81e8o2e5npb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

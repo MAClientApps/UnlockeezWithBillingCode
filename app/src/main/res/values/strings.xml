@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unlockeez</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCxlxyu9qtkv5d6VXp0uLPkv4ZStX8W1O0
+    </string>
+    <string name="available_wifi">Available Wifi</string>
+    <string name="password">PassWord</string>
+    <string name="wifi_name">Wifi Name</string>
+    <string name="textview">TextView</string>
+    <string name="close">Close</string>
+    <string name="available_wi_fi_around_you">Available Wi-Fi Around You</string>
+
+    <string name="dialog_title">Connection Error</string>
+    <string name="no_internet_connection">Please check your Internet connection \n try again</string>
+    <string name="btn_try_again">TRY AGAIN</string>
+</resources>
