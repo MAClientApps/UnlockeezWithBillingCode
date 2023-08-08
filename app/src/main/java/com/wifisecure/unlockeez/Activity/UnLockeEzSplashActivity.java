@@ -193,9 +193,6 @@ public class UnLockeEzSplashActivity extends AppCompatActivity implements MaxAdL
 
     @Override
     public void onAdLoaded(MaxAd maxAd) {
-        if (interstitialAd.isReady()) {
-            interstitialAd.showAd();
-        }
     }
 
     @Override
